@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: colombia | Truth Graph]]></title>
+  <link href="http://dav009.github.io/blog/categories/colombia/atom.xml" rel="self"/>
+  <link href="http://dav009.github.io/"/>
+  <updated>2013-09-01T17:20:06+01:00</updated>
+  <id>http://dav009.github.io/</id>
+  <author>
+    <name><![CDATA[David Przybilla]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[TruthGraph, OpenData Colombia]]></title>
+    <link href="http://dav009.github.io/blog/2013/08/28/first-post/"/>
+    <updated>2013-08-28T21:23:00+01:00</updated>
+    <id>http://dav009.github.io/blog/2013/08/28/first-post</id>
+    <content type="html"><![CDATA[<h2>Que es truthgraph?</h2>
+
+<p><code>Truthgraph</code> significa el grafo de la verdad.<br/>
+Es una iniciativa para promover los datos abiertos en <strong>Colombia</strong>.</p>
+
+<ul>
+<li><p>Para ofrecer a los investigadores datos para entender fenomenos y problemas complejos.</p></li>
+<li><p>Promover la transparencia estatal y mediatica en un pais extremadamente corrupto.</p></li>
+<li><p>como contrapeso a <a href="http://www.datos.gov.co">http://www.datos.gov.co</a> la inutil y mediocre propuesta de openData del gobierno.</p></li>
+</ul>
+
+
+<h2>Datos abiertos?</h2>
+
+<p>Los datos abiertos tambien llamados <strong>OpenData</strong> es una coleccion de datos
+disponibles para que cualquier persona los use.
+Datos acerca de los delitos de una ciudad, los accidentes de transito, las causas de muerte, las locaciones de los restaurantes de comidas rapidas entre muchos otros podrian ser ejemplos de colecciones de datos.<br/>
+Los conjuntos de datos usualmente pasan por un proceso de <code>anonimanizar</code> donde los datos personales son eliminados.</p>
+
+<h3>Para que sirven?</h3>
+
+<p>Los datos son el espejo de la realidad.
+Usando datos se peuden predecir y entender fenomenos.</p>
+
+<p>Muchos paises y ciudades publican los conjuntos de datos para que los ciudados puedan constatar la transparencia de muhcos de los procesos del gobierno.<br/>
+Otro objetivo es entender y correlacionar problemas, por ejemplo que con conjuntos de datos geograficos sobre los restaurantes de comidas rapidas y conjuntos de datos sobre enfermedades, se podria correlacionar el impacto de la comida rapida.</p>
+]]></content>
+  </entry>
+  
+</feed>
